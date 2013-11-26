@@ -4,6 +4,8 @@ This is the app code associated with the tutorial over at [my blog](http://blog.
 
 Fire it up in Xcode, and enjoy :) No additional dependencies are required. 
 
+![Finished Product](http://blog.matthewmascioni.com/assets/christmas-final.png)
+
 ### License Things
 
 All code is distributed under the [MIT License](http://opensource.org/licenses/MIT). The 'christmas.png' used for the background is by the awesome [Benson Kua](http://www.flickr.com/photos/bensonkua/), under [CC BY-SA 2.0](http://creativecommons.org/licenses/by-sa/2.0/).
