@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>328CE9E6-6D8C-4692-AB8A-A9D4427400F7</string>
+	<string>CB10E0F8-9F6C-4CA3-B769-F7FB3C3EE494</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Christmas</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>73776404-42E9-4392-A037-A061D3E01CD9</key>
-		<string>https://github.com/matthewmascioni/christmas.git</string>
+		<key>FF86511E-FAD7-49E8-8C49-6CFE0F66D5A7</key>
+		<string>https://github.com/mm/christmas.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Christmas.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>73776404-42E9-4392-A037-A061D3E01CD9</key>
+		<key>FF86511E-FAD7-49E8-8C49-6CFE0F66D5A7</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/matthewmascioni/christmas.git</string>
+	<string>https://github.com/mm/christmas.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>73776404-42E9-4392-A037-A061D3E01CD9</string>
+	<string>FF86511E-FAD7-49E8-8C49-6CFE0F66D5A7</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>73776404-42E9-4392-A037-A061D3E01CD9</string>
+			<string>FF86511E-FAD7-49E8-8C49-6CFE0F66D5A7</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Christmas</string>
 		</dict>
