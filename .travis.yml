@@ -1,3 +1,4 @@
 language: objective-c
 xcode_project: Christmas.xcodeproj
 xcode_scheme: Christmas
+xcode_sdk: iphonesimulator7.0
